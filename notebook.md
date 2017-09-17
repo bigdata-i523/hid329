@@ -3,22 +3,35 @@
 # Logistics
  - Week 1 (Aug 21 - 27)
      - Created accounts in github, future systems, chameleoncloud, and piazza
-     - Watched Piazza video
+     - Watched Piazza intro video
      - Watched organization video
      - Read class overview/syllabus
      - Answered survey about program knowledge/experience
      - Answered Doodle poll
+     - Answered poll about Raspbery Pi purchase
+     
  - Week 2 (Aug 28-Sep 3)
  - Week 3 (Sep 4 - 10)
-       - Submitted paper 1 topic (approved)
+ - Week 4 (Sep 11 - 7)
+ 
+
 # Theory
  - Week 2 (Aug 28 - Sep 3)
        - Read 3.1 introduction
        - Watched videos: Emerging Technologies, Data Deluge and Jobs 
+  - Week 2 (Aug 4 - Sep 10)
+       - Watched videos: Industrial Trends
 
 
 # Practice
 
 
+
 # Writing
+ - Week 2 (Aug 28-Sep 3)
+ - Week 3 (Sep 4 - 10)
+       - Submitted paper 1 topic (approved)
+ - Week 4 (Sep 11 - 17)
+        - Submitted papter 2 topic (approved)
+        - Watched Jabref video that was posted on Piazza
 

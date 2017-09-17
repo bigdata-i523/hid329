@@ -13,6 +13,7 @@
  - Week 2 (Aug 28-Sep 3)
  - Week 3 (Sep 4 - 10)
  - Week 4 (Sep 11 - 7)
+  - Explored Github account, setup notebok and folders for papers 
  
 
 # Theory

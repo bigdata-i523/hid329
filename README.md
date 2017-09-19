@@ -6,7 +6,7 @@
 owner:
     hid: 329
     name: Ashley Miller
-    url: https://github.com/bigdata-i523/sample-hid329
+    url: https://github.com/bigdata-i523/hid329
 ```
 
 # Paper 1
@@ -23,7 +23,7 @@ paper1:
      marketing messaging and communication to prospective college
      students across multiple touch points in their journey as they
      decide where to attend college
-   url: https://github.com/bigdata-i523/sample-hid000/paper1/paper1.pdf
+   url: https://github.com/bigdata-i523/hid329/paper1/paper1.pdf
    type: latex
    status: in progress
 ```
@@ -48,9 +48,8 @@ We will assign new pids for you when we approve the project and reports
 Just use one type and delete the line with 
 
 ```
-paper2:
+project:
    type: project
-   type: report
    author: 
    - Ashley Miller
    hid:

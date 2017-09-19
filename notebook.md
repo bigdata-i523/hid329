@@ -12,8 +12,9 @@
      
  - Week 2 (Aug 28-Sep 3)
  - Week 3 (Sep 4 - 10)
- - Week 4 (Sep 11 - 7)
+ - Week 4 (Sep 11 - 17)
   - Explored Github account, setup notebok and folders for papers 
+
  
 
 # Theory
@@ -35,4 +36,6 @@
  - Week 4 (Sep 11 - 17)
         - Submitted papter 2 topic (approved)
         - Watched Jabref video that was posted on Piazza
+ - Week 5 (Sep 18 - 24)
+   - Installed Jabref
 

@@ -1,8 +1,4 @@
 # hid329
-# Comments
-
-* Mind the ```quotes and do not forget them```
-* Remove all sections that you have not yet created a directory in github with so our automated scripts do not fail. Only add them if the 
 
 # Owner
 
@@ -22,7 +18,11 @@ paper1:
    hid:
    - 329
    title: Big Data Analytics in Higher Education Marketing
-   This paper will explore how big data can be used to help inform marketing messaging and communication to prospective college students across multiple touch points in their journey as they decide where to attend college
+   abstract: >
+     This paper will explore how big data can be used to help inform
+     marketing messaging and communication to prospective college
+     students across multiple touch points in their journey as they
+     decide where to attend college
    url: https://github.com/bigdata-i523/sample-hid000/paper1/paper1.pdf
    type: latex
    status: in progress

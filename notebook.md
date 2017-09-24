@@ -23,7 +23,11 @@
        - Watched videos: Emerging Technologies, Data Deluge and Jobs 
   - Week 2 (Aug 4 - Sep 10)
        - Watched videos: Industrial Trends
-
+ - Week 3 (Sep 4 - 10)
+ - Week 4 (Sep 11 - 17)
+       - Watched Digital Disruption of Old Favorites, Computing  Model, Research Model, Data Science Process, Physics - Informatics, Recommender Systems, and Security Subgroup Video
+ - Week 5 (Sep 18 - 24)
+   - Installed Jabref
 
 # Practice
 

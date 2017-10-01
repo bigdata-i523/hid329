@@ -25,7 +25,7 @@ paper1:
      decide where to attend college
    url: https://github.com/bigdata-i523/hid329/paper1/paper1.pdf
    type: latex
-   status: in progress
+   status: 50%
    chapter: Education
 ```
    

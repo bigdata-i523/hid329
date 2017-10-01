@@ -14,6 +14,8 @@
  - Week 3 (Sep 4 - 10)
  - Week 4 (Sep 11 - 17)
   - Explored Github account, setup notebok and folders for papers 
+ - Week 5 (Sep 18-24)
+ - Week 6 (Sep 25 - Oct 1)
 
  
 
@@ -27,7 +29,7 @@
  - Week 4 (Sep 11 - 17)
        - Watched Digital Disruption of Old Favorites, Computing  Model, Research Model, Data Science Process, Physics - Informatics, Recommender Systems, and Security Subgroup Video
  - Week 5 (Sep 18 - 24)
-   - Installed Jabref
+ - Week 6 (Sep 25 - Oct 1)
 
 # Practice
 
@@ -42,4 +44,8 @@
         - Watched Jabref video that was posted on Piazza
  - Week 5 (Sep 18 - 24)
    - Installed Jabref
+   - Created LateX account
+- Week 6 (Sep 25 - Oct 1)
+ - started writing paper
+ - watched LateX video
 

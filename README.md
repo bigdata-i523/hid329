@@ -26,6 +26,7 @@ paper1:
    url: https://github.com/bigdata-i523/hid329/paper1/paper1.pdf
    type: latex
    status: in progress
+   chapter: Education
 ```
    
 # Paper 2
@@ -37,10 +38,16 @@ paper2:
    hid:
    - 329
    title: Big Data Analytics and the Impact on Personal Privacy
-   abstract: This paper will explore issues around the use of big data analytics and mining as it relates to user privacy. Specific areas addressed include the level of control/say an average user has in how their data is used and/or shared along with the implications when significant data breaches occur. 
-   url: https://github.com/bigdata-i523/sample-hid000/paper2/paper2.pdf   
+   abstract: >
+      This paper will explore issues around the use of big data
+      analytics and mining as it relates to user privacy. Specific areas
+      addressed include the level of control/say an average user has in
+      how their data is used and/or shared along with the implications
+      when significant data breaches occur.
+   url: https://github.com/bigdata-i523/sample-hid000/paper2/paper2.pdf
    type: latex
    status: in progress
+   chapter: Security
 ```
 
 # Project 

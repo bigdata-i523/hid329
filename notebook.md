@@ -46,6 +46,7 @@
    - Installed Jabref
    - Created LateX account
 - Week 6 (Sep 25 - Oct 1)
- - started writing paper
- - watched LateX video
-
+   - started writing paper
+   - watched LateX video
+- Week 7 (Oct 2 - Oct 8)
+   - finished paper 1 and submitted

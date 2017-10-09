@@ -17,7 +17,7 @@ paper1:
    - Ashley Miller
    hid:
    - 329
-   title: Big Data Analytics in Higher Education Marketing
+   title: "Big Data Analytics in Higher Education Marketing"
    abstract: >
      This paper will explore how big data can be used to help inform
      marketing messaging and communication to prospective college

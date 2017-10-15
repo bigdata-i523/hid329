@@ -4,11 +4,10 @@ owner:
     name: Ashley Miller
     url: https://github.com/bigdata-i523/hid329
 paper1:
-    abstract: 'This paper will explore how big data can be used to help inform marketing
+    abstract: >
+        This paper will explore how big data can be used to help inform marketing
         messaging and communication to prospective college students across multiple
         touch points in their journey as they decide where to attend college
-
-        '
     author:
         - Ashley Miller
     chapter: Education
@@ -19,12 +18,11 @@ paper1:
     type: latex
     url: https://github.com/bigdata-i523/hid329/paper1/paper1.pdf
 paper2:
-    abstract: 'This paper will explore issues around the use of big data analytics
+    abstract: >
+        This paper will explore issues around the use of big data analytics
         and mining as it relates to user privacy. Specific areas addressed include
         the level of control/say an average user has in how their data is used and/or
         shared along with the implications when significant data breaches occur.
-
-        '
     author:
         - Ashley Miller
     chapter: Security

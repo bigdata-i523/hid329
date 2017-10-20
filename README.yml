@@ -5,9 +5,7 @@ owner:
     url: https://github.com/bigdata-i523/hid329
 paper1:
     abstract: >
-        This paper will explore how big data can be used to help inform marketing
-        messaging and communication to prospective college students across multiple
-        touch points in their journey as they decide where to attend college
+While the collection of vast amounts of data in the world of higher education has occurred for decades, the use of big data applications and analytics is fairly new to this environment. There is a need to understand how the use of big data analytics can help institutions determine student behavior as well as stay relevant in a digital and evolving age of technological advances, tools, and skills. The higher education space is changing as the population of students going to college is on the decline which increases competition and the need for institutions to be more strategic in their efforts for attracting students to their institutions. We will explore at a very high level how higher education could utilize big data analytics to inform marketing initiatives in recruiting and enrolling students as well as what potential challenges and considerations could impact this process.
     author:
         - Ashley Miller
     chapter: Education

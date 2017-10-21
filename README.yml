@@ -5,7 +5,21 @@ owner:
     url: https://github.com/bigdata-i523/hid329
 paper1:
     abstract: >
-While the collection of vast amounts of data in the world of higher education has occurred for decades, the use of big data applications and analytics is fairly new to this environment. There is a need to understand how the use of big data analytics can help institutions determine student behavior as well as stay relevant in a digital and evolving age of technological advances, tools, and skills. The higher education space is changing as the population of students going to college is on the decline which increases competition and the need for institutions to be more strategic in their efforts for attracting students to their institutions. We will explore at a very high level how higher education could utilize big data analytics to inform marketing initiatives in recruiting and enrolling students as well as what potential challenges and considerations could impact this process.
+        While the collection of vast amounts of data in the world of
+        higher education has occurred for decades, the use of big data
+        applications and analytics is fairly new to this
+        environment. There is a need to understand how the use of big
+        data analytics can help institutions determine student
+        behavior as well as stay relevant in a digital and evolving
+        age of technological advances, tools, and skills. The higher
+        education space is changing as the population of students
+        going to college is on the decline which increases competition
+        and the need for institutions to be more strategic in their
+        efforts for attracting students to their institutions. We will
+        explore at a very high level how higher education could
+        utilize big data analytics to inform marketing initiatives in
+        recruiting and enrolling students as well as what potential
+        challenges and considerations could impact this process.
     author:
         - Ashley Miller
     chapter: Education
@@ -17,10 +31,11 @@ While the collection of vast amounts of data in the world of higher education ha
     url: https://github.com/bigdata-i523/hid329/paper1/paper1.pdf
 paper2:
     abstract: >
-        This paper will explore issues around the use of big data analytics
-        and mining as it relates to user privacy. Specific areas addressed include
-        the level of control/say an average user has in how their data is used and/or
-        shared along with the implications when significant data breaches occur.
+        This paper will explore issues around the use of big data
+        analytics and mining as it relates to user privacy. Specific
+        areas addressed include the level of control/say an average
+        user has in how their data is used and/or shared along with
+        the implications when significant data breaches occur.
     author:
         - Ashley Miller
     chapter: Security

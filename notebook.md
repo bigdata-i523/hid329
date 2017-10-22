@@ -16,6 +16,10 @@
   - Explored Github account, setup notebok and folders for papers 
  - Week 5 (Sep 18-24)
  - Week 6 (Sep 25 - Oct 1)
+ - Week 7 (Oct 2 - Oct 8)
+ - Week 8 (Oct 9 - Oct 15)
+ - Week 9 (Oct 16- Oct 22)
+    - Created TurnItIn Account
 
  
 
@@ -30,6 +34,10 @@
        - Watched Digital Disruption of Old Favorites, Computing  Model, Research Model, Data Science Process, Physics - Informatics, Recommender Systems, and Security Subgroup Video
  - Week 5 (Sep 18 - 24)
  - Week 6 (Sep 25 - Oct 1)
+ - Week 7 (Oct 2 - Oct 8)
+ - Week 8 (Oct 9 - Oct 15)
+    - Finished watching videos in 'theory' section 
+ - Week 9 (Oct 16- Oct 22)
 
 # Practice
 
@@ -50,3 +58,9 @@
    - watched LateX video
 - Week 7 (Oct 2 - Oct 8)
    - finished paper 1 and submitted
+    - Week 7 (Oct 2 - Oct 8)
+ - Week 8 (Oct 9 - Oct 15)
+  - Started on Paper 2
+ - Week 9 (Oct 16- Oct 22)
+    - Provided review of student paper on Piazza (HID 209)
+    - made changes from TA/professor feedback, submitted paper to TurnitIn, and updated final files on GitHub

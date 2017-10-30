@@ -20,6 +20,8 @@
  - Week 8 (Oct 9 - Oct 15)
  - Week 9 (Oct 16- Oct 22)
     - Created TurnItIn Account
+ - Week 10 (Oct 23- Oct 29)
+    - Created experiment folder in Github account
 
  
 
@@ -64,3 +66,7 @@
  - Week 9 (Oct 16- Oct 22)
     - Provided review of student paper on Piazza (HID 209)
     - made changes from TA/professor feedback, submitted paper to TurnitIn, and updated final files on GitHub
+ - Week 10 (Oct 23- Oct 29)
+   - turned in paper1 on Turnitin
+   - Selected final paper topic and reviewed section 2.7 (report format)
+   - working on paper 2

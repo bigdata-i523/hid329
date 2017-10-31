@@ -45,12 +45,12 @@ paper2:
     title: Big Data Analytics and the Impact on Personal Privacy
     type: latex
     url: https://github.com/bigdata-i523/sample-hid000/paper2/paper2.pdf
-project:
+report:
     abstract: A customer’s journey consists of multiple touch points along the way as they make choices and ultimately, purchasing decisions. Real-time recommendations, personalized marketing messages, and geo-targeted advertising can all play a role in ‘nudging’ the consumer appropriately when companies are looking to drive consumer interaction and behavior. This paper will evaluate how companies have used these technique to influence the customer decision journey with the use of big data, customer relationship management tools, and predictive analytics. 
     author:
         - Ashley Miller
     hid:
         - 329
     title: Big Data Analytics in the Customer Decision Journey
-    type: latex
+    type: report
     url: https://github.com/bigdata-i523/sample-pid000/project/report.pdf

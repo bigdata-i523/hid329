@@ -30,6 +30,7 @@ paper1:
     type: latex
     url: https://github.com/bigdata-i523/hid329/paper1/paper1.pdf
 paper2:
+    review: Nov 6 2017
     abstract: >
         This paper will explore issues around the use of big data
         analytics and mining as it relates to user privacy. Specific

@@ -32,20 +32,16 @@ paper1:
 paper2:
     review: Nov 6 2017
     abstract: >
-        This paper will explore issues around the use of big data
-        analytics and mining as it relates to user privacy. Specific
-        areas addressed include the level of control/say an average
-        user has in how their data is used and/or shared along with
-        the implications when significant data breaches occur.
+        The collection, analysis, and dissemination of findings from big data can provide benefits to society across a variety of industries including health care, education, law enforcement, and commercial retailers, to name a few. However, with benefits, also comes caveats, risks, and even significant harm when this process of harnessing big data does not go as planned. One prominent discussion point around the use of big data is around privacy. In today's age of sharing information, can one really expect privacy given all the methods in which they can share information? What impact can data breaches have on a person's (or company's) personal information, security, and livelihood? While there are techniques and tools that have been implemented to help minimize the risk, is a data breach more a matter of if it occurs or more so when occurs? We will seek to address these questions as we explore how the increasing and ever changing space of online behavior, data mining, and big data analytics affects today's experience with maintaining privacy.  
     author:
         - Ashley Miller
     chapter: Security
     hid:
         - 329
-    status: 33%
-    title: Big Data Analytics and the Impact on Personal Privacy
+    status: 99%
+    title: Big Data and the Issue of Privacy
     type: latex
-    url: https://github.com/bigdata-i523/sample-hid000/paper2/paper2.pdf
+    url: https://github.com/bigdata-i523/sample-hid329/paper2/paper2.pdf
 report:
     abstract: >
         A customer’s journey consists of multiple touch points along

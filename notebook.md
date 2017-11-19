@@ -33,6 +33,11 @@
      - reviewed Piazza comments
 - Week 11 (Oct 30- Nov 5)
   - reviewed Piazza comments
+- Week 12 (Nov 6- Nov 12)
+  - reviewed Piazza comments
+  - completed YAML quiz
+- Week 13 (Nov 13- Nov 19)
+  - reviewed Piazza comments
 
 # Theory
  - Week 2 (Aug 28 - Sep 3)
@@ -50,6 +55,10 @@
     - Finished watching videos in 'theory' section 
  - Week 9 (Oct 16- Oct 22)
  - Week 10 (Oct 23- Oct 29)
+ - Week 11 (Oct 30- Nov 5)
+ - Week 12 (Nov 6- Nov 12)
+ - Week 13 (Nov 13- Nov 19)
+ 
 
 # Practice
 
@@ -83,3 +92,8 @@
    - working on paper 2
  - Week 11 (Oct 30- Nov 5)
    - worked on paper 2, submitted files via GitHub
+ - Week 12 (Nov 6- Nov 12)
+  - worked on final paper
+ - Week 13 (Nov 13- Nov 19)
+  - working on final paper 
+ 

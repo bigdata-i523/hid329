@@ -93,7 +93,7 @@
  - Week 11 (Oct 30- Nov 5)
    - worked on paper 2, submitted files via GitHub
  - Week 12 (Nov 6- Nov 12)
-  - working on final paper
+   - working on final paper
  - Week 13 (Nov 13- Nov 19)
-  - working on final paper 
+   - working on final paper 
  

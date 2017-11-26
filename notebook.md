@@ -38,7 +38,9 @@
   - completed YAML quiz
 - Week 13 (Nov 13- Nov 19)
   - reviewed Piazza comments
-
+- Week 14 (Nov 20- Nov 26)
+  - reviewed Piazza comments
+  
 # Theory
  - Week 2 (Aug 28 - Sep 3)
        - Read 3.1 introduction

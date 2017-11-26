@@ -96,4 +96,5 @@
    - working on final paper
  - Week 13 (Nov 13- Nov 19)
    - working on final paper 
- 
+ - Week 14 (Nov 20- Nov 26)
+   - finalizing final paper 

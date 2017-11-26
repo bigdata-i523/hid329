@@ -11,25 +11,25 @@
      - Answered poll about Raspbery Pi purchase
      
  - Week 2 (Aug 28-Sep 3)
-  - reviewed Piazza comments
+   - reviewed Piazza comments
  - Week 3 (Sep 4 - 10)
-  - reviewed Piazza comments
+   - reviewed Piazza comments
  - Week 4 (Sep 11 - 17)
-  - Explored Github account, setup notebok and folders for papers 
+   - Explored Github account, setup notebok and folders for papers 
    - reviewed Piazza comments
  - Week 5 (Sep 18-24)
-  - reviewed Piazza comments
+   - reviewed Piazza comments
  - Week 6 (Sep 25 - Oct 1)
-  - reviewed Piazza comments
+   - reviewed Piazza comments
  - Week 7 (Oct 2 - Oct 8)
-  - reviewed Piazza comments
+   - reviewed Piazza comments
  - Week 8 (Oct 9 - Oct 15)
-  - reviewed Piazza comments
+   - reviewed Piazza comments
  - Week 9 (Oct 16- Oct 22)
-    - Created TurnItIn Account
+     - Created TurnItIn Account
      - reviewed Piazza comments
  - Week 10 (Oct 23- Oct 29)
-    - Created experiment folder in Github account
+     - Created experiment folder in Github account
      - reviewed Piazza comments
 - Week 11 (Oct 30- Nov 5)
   - reviewed Piazza comments

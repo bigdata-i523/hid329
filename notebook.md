@@ -40,7 +40,8 @@
   - reviewed Piazza comments
 - Week 14 (Nov 20- Nov 26)
   - reviewed Piazza comments
-  
+- Week 15 (Nov 27- Dec 3)
+  - reviewed Piazza comments
 # Theory
  - Week 2 (Aug 28 - Sep 3)
        - Read 3.1 introduction
@@ -60,11 +61,14 @@
  - Week 11 (Oct 30- Nov 5)
  - Week 12 (Nov 6- Nov 12)
  - Week 13 (Nov 13- Nov 19)
+ - Week 14 (Nov 20- Nov 26)
+ - Week 15 (Nov 27 - Dec 3)
  
 
 # Practice
 
-
+ - Week 14 (Nov 27- Dec 3)
+   - worked on Python experiments in Jupyter and submitted via GitHub and Piazza 
 
 
 # Writing
@@ -99,4 +103,6 @@
  - Week 13 (Nov 13- Nov 19)
    - working on final paper 
  - Week 14 (Nov 20- Nov 26)
+   - finalizing final paper 
+ - Week 15 (Nov 27- Dec 3)
    - finalizing final paper 

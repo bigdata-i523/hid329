@@ -42,7 +42,7 @@ paper2:
     title: Big Data and the Issue of Privacy
     type: latex
     url: https://github.com/bigdata-i523/sample-hid329/paper2/paper2.pdf
-report:
+project:
     abstract: >
         A customer’s journey consists of multiple touch points along
         the way as they make choices and ultimately, purchasing

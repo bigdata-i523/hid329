@@ -27,7 +27,6 @@ paper1:
         - 329
     status: 100% Oct 22
     title: Big Data Analytics in Higher Education Marketing
-    type: latex
     url: https://github.com/bigdata-i523/hid329/paper1/paper1.pdf
 paper2:
     review: Nov 6 2017
@@ -40,7 +39,6 @@ paper2:
         - 329
     status: 100% Nov 6
     title: Big Data and the Issue of Privacy
-    type: latex
     url: https://github.com/bigdata-i523/sample-hid329/paper2/paper2.pdf
 project:
     abstract: >
